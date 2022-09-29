@@ -1,6 +1,6 @@
 								-(Function)-
 
-	^ Function ialah potongan program atau baris-baris kode yang dibuat untuk mempermudah pada saat memprogram, kode nama tersebut 	  bisa diberi nama 	  lalu bisa dipanggil berulang-ulang.
+	^ Function ialah potongan program atau baris-baris kode yang dibuat untuk mempermudah pada saat memprogram, kode nama tersebut bisa diberi nama 		 lalu bisa dipanggil berulang-ulang.
 
 	^ Terdapat function yang mengharuskan kita menulis parameternya.
 
@@ -10,15 +10,13 @@
 
 	^ Built-in Function
 	 - Yaitu fungsi yang telah disediakan oleh PHP
+	 - Gratis
 	 - Penjelasan lengkapnya ada pada Web PHP berikut : http://php.net/manual/en/funcref.php
-
-	^ User-Defined Function
-	 - Yaitu fungsi yang dapat dibuat sendiri
 
 	^ Date / Time :
 	 - time() {membutuhkan parameter minimal 1}
 	 - date()
-	 - mktime()
+	 - mktime() {membutuhkan 6 parameter}
 	 - strtotime()
 
 	^ date()
@@ -31,7 +29,64 @@
 
 	^ time()
 	 - UNIX Timestamp / EPOCH time : asal mula waktu di dunia IT, yaitu detik yang sudah berlalu sejak 1 Januari 1970 sampai saat ini
-	  <https://en.wikipedia.org/wiki/Unix_time>
+	<https://en.wikipedia.org/wiki/Unix_time>
 
+	^ mktime()
+	 - Membuat detik sendiri dari 1 Januari 1970 sampai detik yang di inginkan
+	 - Urutan parameter : jam, menit, detik, bulan, tanggal, tahun
 
+	^ strtotime()
+	 - Kebalikan dari "mktime()" yaitu dengan memasukkan format tanggal yang tampil ialah detik
 
+	^ String
+	 - strlen()
+	 - strcmp()
+	 - explode()
+	 - htmlspecialchars()
+
+	^ strlen()
+	 - Untuk menghitung panjang sebuah "String"
+
+	^ strcmp()
+	 - Untuk membandingkan dua buah "String"
+
+	^ explode()
+	 - Untuk memecah sebuah "String" menjadi "Array"
+	 - Contohnya : di gunakan jika ingin mengambil nama sebuah file
+
+	^ htmlspecialchars()
+	 - Function khusus untuk menjaga dari orang yang iseng mau masuk ke website pemilik
+	 - Contohnya : hacker
+
+	^ Utility
+	 Yaitu fungsi bantuan yang akan sering di gunakan
+	 - var_dump()
+	 - isset()
+	 - empty()
+	 - die()
+	 - sleep()
+
+	^ var_dump()
+	 - Untuk mencetak isi dari sebuah "Variabel, Array, Object"
+
+	^ isset()
+	 - Untuk mengecek apakah sebuah "variabel" pernah di buat atau belum, dengan menghasilkan nilai "Boolean" (True, False)
+	 - JIka "variabel" tersebut belum pernah di buat maka nilainya "false"
+
+	^ empty()
+	 - Untuk mengecek apakah sebuah "variabel" memiliki isi atau tidak
+
+	^ die()
+	 - Untuk memberhentikan program
+	 - Contohnya : ketika di dalam baris program tersebut terdapat "die()" maka program di bawahnya tidak akan di eksekusi 
+
+	^ sleep()
+	 - Untuk memberhentikan sementara
+	 - Contohnya : sleep selama 2 detik
+
+	^ User-Defined Function
+	 - Yaitu fungsi yang dapat dibuat sendiri
+
+	^ Hal-hal yang harus di perhatikan sebelum membuat "User-defined Function"
+	 - Fungsi tersebut harus di definisikan terlebih dahulu, contohnya : terdapat pada file "phpdasar/pertemuan4/function.php"
+	 - 
