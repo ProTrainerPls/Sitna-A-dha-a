@@ -1,0 +1,55 @@
+						-(Font Styling)-
+
+	{Font Styling}
+
+	  ^ font-family
+	   Mengatur jenis font yang akan digunakan.
+
+	  ^ font-size
+	   Mengatur ukuran font.
+
+	  ^ font-weight
+	   Mengatur ketebalan font.
+
+	  ^ font-variant
+	   Mengubah font menjadi small caps.
+
+	  ^ font-style
+	   Mengubah font menjadi bercetak miring.
+
+	  ^ line-height
+	   Mengatur spasi antar baris.
+
+	  ^ Font-family (value) :
+	   - Nama Font
+	   - Generic Family
+
+	  ^ Font-size (value) :
+	   - px
+	   - %
+	   - em
+
+	  ^ Font-weight (value) :
+	   - lighter
+	   - normal
+	   - 100 (sampai) 900
+	   - bold
+	   - bolder
+
+	  ^ Font-variant (value) :
+	   - normal
+	   - small(-)caps
+
+	  ^ Font-style (value) :
+	   - normal
+	   - italic
+	   - oblique
+
+	  ^ Line-height (value) :
+	   - normal
+	   - px
+	   - em
+
+	  ^ Shorthand / Singkatan (CSS Font) :
+	   - font: (font-style {optional}, font-variant {optional}, font-weight {optional},
+	     font-size {wajib}/line-height {optional}, font-family {wajib});

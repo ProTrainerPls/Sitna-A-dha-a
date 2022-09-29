@@ -1,0 +1,40 @@
+						-(Intro)-
+
+	^ Kenapa PHP ?
+	 - Relatif mudah untuk pemula
+	 - Pre-requisite (HTML + CSS)
+	 - Gratis & Open source
+	 - Dukungan komunitas
+	 - Dokumentasi yang lengkap
+	 - PHP dibuat khusus untuk web
+	 - Kebanyakan website yang ada saat ini dibuat dengan PHP
+	 - Banyak website besar yang dengan PHP
+	 - Content Management System yang menggunakan PHP
+	 - Framework PHP
+
+	^ Stackoverflow (Googlenya para programmer)
+
+	^ PHP Indonesia (Facebook group : 145rb++ member)
+
+	^ Apa yang akan dipelajari ?
+	 - Client-side vs Server-side Scripting
+	 - Static vs Dynamic Website
+	 - Persiapan lingkungan pengembangan
+	 - Sintaks PHP
+	 - Array
+	 - Request Method
+	 - Studi kasus website sederhana
+	 - Database
+	 - CRUD (Create, Read, Update, Delete)
+	 - Login dan Registrasi
+	 - Session dan Cookie
+	 - Ajax
+	 - Upload file
+	 - Reporting
+	 - Web Hosting
+
+	^ Apa yang harus disiapkan ?
+	 - Code Editor
+	 - Web Server
+	 - Web Browser
+	 - Database Server

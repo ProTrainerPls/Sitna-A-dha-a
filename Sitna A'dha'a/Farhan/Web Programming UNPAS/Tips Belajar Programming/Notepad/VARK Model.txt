@@ -1,0 +1,61 @@
+					-(VARK Model)-
+	
+	Pembuat : Neil D.Fleming (Peneliti, Lincoln University New Zealand)
+
+	VARK Model bukanlah suatu metode pembelajaran melainkan sebuah model 
+	untuk mengklasifikasi kecenderungan gaya belajar (Learning Style) dari kita 
+	atau referensi belajar (Learning Preference).
+
+	VARK adalah singkatan dari 4 buah gaya belajar :
+	- Pertama, (V) untuk Visual learner  = Pembelajar yang senang dengan 
+	  materi-materi yang visual atau informasi-informasi visual.
+
+	- Kedua, (A) untuk Aural / Auditory = Pembelajar yang gaya belajarnya 
+	  cenderung untuk mendengarkan audio atau suara.
+
+	- Ketiga, (R) untuk Read and Write     = Pembelajar yang senang membaca 
+	  dan mencatat informasi yang didapatkan.
+
+	- Keempat, (K) untuk Kinesthetic     = Pembelajar yang senang untuk praktek 
+	  atau menggerakkan anggota tubuhnya untuk mendapatkan pengetahuan atau 
+	  informasinya.
+
+	Tips-tips untuk masing-masing gaya belajar (Learning Style) :
+	- (V) Visual Learning :
+	 ^ Video Tutorial
+	 ^ Representasi Visual
+	 ^ Buat Mind Map
+	 ^ Highlight Informasi Penting
+	 ^ Syntax Highlighting
+	 ^ Bracket Pair Colorizer
+
+	- (A) Aural / Auditory Learning :
+	 ^ Video / Podcast
+	 ^ Gunakan Headphone
+	 ^ Teknik Think Aloud
+	 ^ Diskusi Verbal
+	 ^ Dengarkan Musik (Ambience Sound)
+
+	- (R) Read and Write Learning :
+	 ^ Memorization vs Understanding (Jangan dihafal tapi fahami {dulu})
+	 ^ Pahami Istilah / Terminologi
+	 ^ Buat Catatan
+	 ^ Gunakan Subtitles
+
+	- (K) Kinesthetic Learning :
+	 ^ Ikuti Tutorial
+	 ^ Ketik Ulang
+	 ^ Berpindah Tempat
+	 ^ Active Break
+	 ^ Rubik's Cube
+	 ^ Kunyah Permen Karet
+
+	Skor hasil test saya :
+	- (V) Visual             = 9 point
+	- (A) Aural / Auditory = 11 point
+	- (R) Read and Write  = 7 point
+	- (K) Kinesthetic        = 6 point
+	 ^ Urutan = (A), (V), (R), (K)
+
+	Link untuk mengetahui Learning Style :
+	- https://vark-learn.com/the-vark-questionnaire/

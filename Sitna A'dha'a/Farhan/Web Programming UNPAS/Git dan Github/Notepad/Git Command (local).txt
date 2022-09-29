@@ -1,0 +1,24 @@
+Git Command (local)
+. $ git init : untuk membuat repository pada file lokal yang nantinya ada folder .git
+. $ git add <file(s)> : menambahkan file baru pada repository yang dipilih
+. $ git status : untuk mengetahui status dari repository lokal
+. $ git commit : untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository
+. $ git config : 
+. $ git branch <nama_branch>
+. $ git help
+. $ git checkout
+. $ git checkout <nama_branch>
+. $ git merge <branch>
+. $ git merge <remote/branch>
+. $ git branch -d <branch>
+. $ git remote add <nama_remote>
+. $ git config --global user.name "<user_name>"
+. $ git config --global user.email "<email>" 
+. $ git push <remote> <branch>	      
+. $ git fetch <remote>
+. $ mkdir <nama_repo>
+. $ clear
+. $ git push -u origin master
+. $ git pull
+. $ git rebase <branch>
+. ...

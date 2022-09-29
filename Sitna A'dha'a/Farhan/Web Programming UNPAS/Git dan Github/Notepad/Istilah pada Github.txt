@@ -1,0 +1,14 @@
+Branch
+jalur 'development' bebas dari sebuah commit
+
+Checkout
+berpindah ke branch / commit yang lain
+
+Pull Request
+meminta pemilik repo untuk 'mengambil' perubahan yang telah dilakukan
+
+Merge
+menggabungkan 2 branch
+
+Merge Conflict
+baris yang sama diubah oleh 2 branch yang berbeda

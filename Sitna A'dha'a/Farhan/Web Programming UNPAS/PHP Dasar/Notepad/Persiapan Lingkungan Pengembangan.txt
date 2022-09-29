@@ -1,0 +1,5 @@
+					-(Persiapan Lingkungan Pengembangan)-
+
+	^ Client-side vs Server-side Scripting
+	 - Ketika membuat website menggunakan HTML, CSS, dan Javascript itu disebut dengan Client-side Scripting.
+	 - Karena semua pemrosesannya terjadi

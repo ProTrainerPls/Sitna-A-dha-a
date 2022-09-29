@@ -1,0 +1,3 @@
+Jenis Merge
+. Fast Forward
+. Three-way Merge

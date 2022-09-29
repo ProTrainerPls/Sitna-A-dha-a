@@ -1,0 +1,3 @@
+. setiap elemen di halaman berada di dalam sebuah box (kotak)
+. kita bisa mengatur ukuran dan posisi kotak tersebut
+. kita bisa memberi warna / gambar sebagai background kotak tersebut

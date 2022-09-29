@@ -1,0 +1,5 @@
+3 area pada repo Git
+. Working tree
+. { Staging area
+.  History }
+ {.git}

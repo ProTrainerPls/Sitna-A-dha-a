@@ -1,0 +1,36 @@
+						-(Pendahuluan)-
+
+	{CSS}
+
+	 ^ Cascading Style Sheet
+
+	 ^ Mekanisme sederhana yang mengatur gaya / style (cth : warna, ukuran, posisi, dll) pada halaman web.
+
+	 ^ Sebelum CSS :
+	  - <font size="+6" color="lightblue" face="arial">
+	      <center>
+	        <h1>Hello World</h1>
+	      </center>
+	     </font>
+
+	 ^ Dengan CSS :
+	  - HTML
+	   "<h1>Hello World</h1>"
+
+	  - CSS
+	   "h1 {
+	      font-size: 120px;
+	      font-family: arial;
+	      color: lightblue;
+	      text-align: center;
+	    }"
+
+	  ^ Aturan yang digunakan untuk menampilkan elemen / tag HTML.
+
+	  ^ Dibuat terpisah dengan HTML.
+
+	  ^ Bertujuan untuk memisahkan konten dan style.
+
+	  ^ 1 CSS dapat digunakan untuk banyak halaman HTML.
+
+	  ^ 1 halaman HTML dapat terlihat berbeda pula jika menggunakan CSS yang berbeda pula.

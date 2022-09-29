@@ -1,0 +1,12 @@
+						-(Mengenal Variabel)-
+
+	^ Variabel = Yang di matematika
+
+	^ x = 2
+	  y = x + 4 = {2 + 4}
+	    = {6}
+
+	- {x} disebut variable
+	- {2} disebut value
+	- {=} disebut assignment
+	

@@ -1,0 +1,12 @@
+.gitignore
+
+Ditempatkan didalam sebuah folder, dan di isi file / folder yang tidak mau di simpan di staging area.
+- jika berbentuk file maka ditulis original
+ cth :
+ - config.txt
+- jika berbentuk folder juga ditulis original namun dengan slash (/) diujungnya
+ cth :
+ - data/
+- jika berbentuk pola
+ cth :
+ - *.exe (semua file yang berekstensi exe)

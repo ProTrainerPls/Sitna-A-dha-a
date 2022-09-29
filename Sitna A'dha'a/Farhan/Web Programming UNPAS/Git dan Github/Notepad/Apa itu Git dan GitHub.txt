@@ -1,0 +1,26 @@
+/Recap/
+
+/Version Control System (VCS)/
+Sistem yg menyimoan dan mengelola
+perubahan dari source code
+
+/Git/
+Salah satu software yg bisa melakukan VCS
+
+.Istilah Git.
+repo : folder project kita
+commit : rekaman / snapshot dari repo kita
+hash : penanda unik pada sebuah commit
+checkout : berpindah ke sebuah commit
+branch : cabang bebas dari sebuah commit
+merge : menggabungkan branch
+remote : sumber yg memiliki repo
+clone : mengambil repo dari remote
+push : mengirimkan commit ke repo
+pull : mengambil commit dari repo
+
+/GitHub/
+Website / layanan untuk mengelola projek Git
+
+
+

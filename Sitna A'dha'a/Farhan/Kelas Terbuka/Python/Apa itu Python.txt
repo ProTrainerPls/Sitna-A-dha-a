@@ -1,0 +1,20 @@
+					-(Python)-
+
+	^ Kenapa belajar Python ?
+	 - Mudah Dimengerti
+	 - Gratis
+	 - Dynamic
+	 - Multi Platform :
+	  "Web Development, Mobile Apps, Dekstop Apps"
+	 - Lagi Hype :
+	  "Data Science, Robotics, Machine Learning, Data Analysis, Artificial Intelligent"
+
+	^ Pencipta Python adalah, Guido Van Rossum, pada tahun 1989.
+
+	^ Apa yang dibutuhkan untuk mulai belajar Python ?
+	 - Python
+	 - (IDE) Integrated Development Environment
+	 - Interactive Python Shell
+	 - Text Editor (Visual Studio Code)
+
+	^ Python adalah Bahasa Pemrograman Interpreted.
