@@ -1,0 +1,37 @@
+								-(Function)-
+
+	^ Function ialah potongan program atau baris-baris kode yang dibuat untuk mempermudah pada saat memprogram, kode nama tersebut 	  bisa diberi nama 	  lalu bisa dipanggil berulang-ulang.
+
+	^ Terdapat function yang mengharuskan kita menulis parameternya.
+
+	^ Jangan lupa menambahkan "echo" sebelum menuliskan function untuk menangani masalah (tidak dapat tampil di layar)
+
+	^ Function dapat di kombinasikan dengan function yang lainnya.
+
+	^ Built-in Function
+	 - Yaitu fungsi yang telah disediakan oleh PHP
+	 - Penjelasan lengkapnya ada pada Web PHP berikut : http://php.net/manual/en/funcref.php
+
+	^ User-Defined Function
+	 - Yaitu fungsi yang dapat dibuat sendiri
+
+	^ Date / Time :
+	 - time() {membutuhkan parameter minimal 1}
+	 - date()
+	 - mktime()
+	 - strtotime()
+
+	^ date()
+	 - Parameter "l" : menampilkan hari
+	 - parameter "d" : menampilkan tanggal
+	 - parameter "M" : menampilkan bulan (dalam bentuk tulisan)
+	 - parameter "m" : menampilkan bulan (dalam bentuk angka)
+	 - parameter "Y" : menampilkan tahun
+	<Untuk selengkapnya silakan lihat di https://www.php.net/manual/en/datetime.format.php>
+
+	^ time()
+	 - UNIX Timestamp / EPOCH time : asal mula waktu di dunia IT, yaitu detik yang sudah berlalu sejak 1 Januari 1970 sampai saat ini
+	  <https://en.wikipedia.org/wiki/Unix_time>
+
+
+

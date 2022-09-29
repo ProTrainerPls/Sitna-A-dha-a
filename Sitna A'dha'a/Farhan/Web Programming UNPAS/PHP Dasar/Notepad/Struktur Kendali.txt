@@ -1,0 +1,41 @@
+					-(Struktur Kendali)-
+
+	^ Pengulangan
+	 - for
+	 - while
+	 - do ... while
+	 - foreach
+
+	^ Pengkondisian
+	 - if ... else
+	 - if ... else if ... else
+	 - ternary
+	 - switch
+
+	^ PHP Loop (Pengulangan)
+	 - Seringkali ketika Anda menulis kode, Anda ingin blok kode yang sama dijalankan berulang-ulang beberapa kali. Jadi, alih-	  alih menambahkan beberapa baris kode yang hampir sama dalam skrip, kita dapat menggunakan loop.
+
+	  Loop digunakan untuk mengeksekusi blok kode yang sama berulang kali, selama kondisi tertentu benar.
+
+	  Di PHP, kami memiliki jenis loop berikut:
+
+	  while      : loop melalui blok kode selama kondisi yang ditentukan benar
+	  do...while  : loop melalui blok kode sekali, dan kemudian mengulangi loop selama kondisi yang ditentukan benar
+	  for         : loop melalui blok kode beberapa kali
+	  foreach   : loop melalui blok kode untuk setiap elemen dalam array
+
+	  Bab-bab berikut akan menjelaskan dan memberikan contoh dari setiap jenis loop.
+
+	^ Pernyataan Bersyarat PHP
+		 - Sangat sering ketika Anda menulis kode, Anda ingin melakukan tindakan yang berbeda untuk kondisi yang berbeda. Anda dapat menggunakan 	  pernyataan bersyarat dalam kode Anda untuk melakukan ini.
+
+	  Dalam PHP kami memiliki pernyataan kondisional berikut:
+
+	  if  		: mengeksekusi beberapa kode jika satu kondisi benar
+	  if...else          : mengeksekusi beberapa kode jika suatu kondisi benar dan kode lain jika kondisi itu salah
+	  if...else if...else : mengeksekusi kode yang berbeda untuk lebih dari dua kondisi
+	  switch 	           : memilih salah satu dari banyak blok kode yang akan dieksekusi
+
+	
+
+
