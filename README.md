@@ -1,2 +1,2 @@
 # Sitna-A-dha-a
-My Repository khuss untuk pembelajaran Sitna
+My Repository khusus untuk pembelajaran Sitna
