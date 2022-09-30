@@ -1,0 +1,7 @@
+									-(Array)-
+
+	^ Topik mengenai "Array" adalah topik yang cukup penting pada Pemrograman PHP, karena "Array" akan sangat sering di gunakan terutama pada saat 	 terhubung ke "Database".
+
+	^ Array adalah sebuah "variabel" yang bisa menampung lebih dari 1 nilai
+
+	^  

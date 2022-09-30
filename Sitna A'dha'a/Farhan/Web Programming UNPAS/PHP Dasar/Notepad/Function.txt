@@ -1,6 +1,6 @@
 								-(Function)-
 
-	^ Function ialah potongan program atau baris-baris kode yang dibuat untuk mempermudah pada saat memprogram, kode nama tersebut bisa diberi nama 		 lalu bisa dipanggil berulang-ulang.
+	^ Function ialah potongan program atau baris-baris kode yang dibuat untuk mempermudah pada saat memprogram, kode nama tersebut bisa diberi nama 		 	 lalu bisa dipanggil berulang-ulang.
 
 	^ Terdapat function yang mengharuskan kita menulis parameternya.
 
@@ -89,4 +89,3 @@
 
 	^ Hal-hal yang harus di perhatikan sebelum membuat "User-defined Function"
 	 - Fungsi tersebut harus di definisikan terlebih dahulu, contohnya : terdapat pada file "phpdasar/pertemuan4/function.php"
-	 - 
