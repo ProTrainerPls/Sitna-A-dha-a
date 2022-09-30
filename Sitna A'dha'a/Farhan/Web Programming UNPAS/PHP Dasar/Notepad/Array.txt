@@ -1,7 +1,20 @@
 									-(Array)-
 
-	^ Topik mengenai "Array" adalah topik yang cukup penting pada Pemrograman PHP, karena "Array" akan sangat sering di gunakan terutama pada saat 	 terhubung ke "Database".
+	^ Topik mengenai "Array" adalah topik yang cukup penting pada Pemrograman PHP, karena "Array" akan sangat sering di gunakan terutama pada saat 	 	 	 terhubung ke "Database".
 
-	^ Array adalah sebuah "variabel" yang bisa menampung lebih dari 1 nilai
+	^ Array adalah sebuah "Variabel" yang bisa menampung lebih dari 1 nilai
 
-	^  
+	^ Contoh ilustrasinya : sebuah "Tempat Pensil Warna"
+	 - Pensil Warna : sebagai "nilai"
+
+	^ Biasanya kita menampung satu nilai ke dalam satu variabel, contohnya : terdapat pada file "phpdasar/pertemuan5/latihan1.php"
+
+	^ Di dalam PHP ada 2 cara membuat "Array" :
+	 - Cara Lama (sebelum pHP 5.4) = (terdapat pada file "phpdasar/pertemuan5/latihan1.php")
+	 - Cara Baru 		     = (terdapat pada file "phpdasar/pertemuan5/latihan1.php")
+
+	^ "Echo" tidak dapat di gunakan untuk mencetak "Array", yang dapat di gunakan untuk mencetak "Array" yaitu 2 :
+	 - var_dump()
+	 - print_r()
+
+	^ Selebihnya terdapat pada file "phpdasar/pertemuan5/latihan1.php,latihan2.php" 
